@@ -4,7 +4,7 @@
 #ifndef GRPC_types_2ftypes_2eproto__INCLUDED
 #define GRPC_types_2ftypes_2eproto__INCLUDED
 
-#include "types/types.pb.h"
+#include "types.pb.h"
 
 #include <grpcpp/impl/codegen/async_stream.h>
 #include <grpcpp/impl/codegen/async_unary_call.h>

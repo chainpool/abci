@@ -2,8 +2,8 @@
 // If you make any local change, they will be lost.
 // source: types/types.proto
 
-#include "types/types.pb.h"
-#include "types/types.grpc.pb.h"
+#include "types.pb.h"
+#include "types.grpc.pb.h"
 
 #include <grpcpp/impl/codegen/async_stream.h>
 #include <grpcpp/impl/codegen/async_unary_call.h>
